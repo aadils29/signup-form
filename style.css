@@ -10,4 +10,10 @@ body {
 
 .image-section {
   display: flex;
+  background-image: url("./background.jpg");
+  background-position: center center;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
 }
