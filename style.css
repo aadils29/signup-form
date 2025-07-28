@@ -22,7 +22,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   text-align: center;
-  flex: 1;
+  flex: 3;
   color: white;
 }
 
@@ -44,3 +44,5 @@ body {
 .credit {
   font-size: 0.9rem;
 }
+
+/* Form Section */
